@@ -41,9 +41,9 @@ public class QuickSort {
         return i + 1;
     }
 
-    public static void main(String[] args) {
-        int[] arr = {5, 2, 9, 7, 1, 8, 3, 6, 4};
-        quickSort(arr, 0, arr.length - 1);
-        System.out.println(Arrays.toString(arr));
-    }
+//    public static void main(String[] args) {
+//        int[] arr = {5, 2, 9, 7, 1, 8, 3, 6, 4};
+//        quickSort(arr, 0, arr.length - 1);
+//        System.out.println(Arrays.toString(arr));
+//    }
 }
